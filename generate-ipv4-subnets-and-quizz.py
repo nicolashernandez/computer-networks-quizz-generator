@@ -1,7 +1,7 @@
 # Nicolas Hernandez 2019
 # GPLv2 Licence https://docs.moodle.org/19/fr/Licence
 #
-# IPv4 subnet generator and quizz generator with (XML Moodle output format support)[https://docs.moodle.org/3x/fr/Question_cloze_à_réponses_intégrées]
+# IPv4 subnet generator and quizz generator with [XML Moodle output format support](https://docs.moodle.org/3x/fr/Question_cloze_à_réponses_intégrées)
 # Works with `python3`.
 #
 # To use it
