@@ -1,15 +1,13 @@
 # computer-networks-quizz-generator
 
+Interactive Python Notebook for generating in Moodle format questions concerning:
+- IP address plan
+- Subnet splitting
+- Routing table (not implemented)
+- Routing
 
-The last sections of the notebook contains the code for generating various categories of questions/quizz in the Moodle format.
+(focus on IPv4)
 
-    IP address plan
-    Subnet splitting
-    Routing table (not implemented)
-    Routing
+Simply run all the cells. XML files will be generated. Each one containing multiple questions of the given category. The file can be imported in your _question bank_ under a dedicated category. You may then create a _test_ by picking up randomly a question from this category.  
 
-Simply run all the cells.
-
-GPLv2 Licence https://docs.moodle.org/19/fr/Licence
-
-XML Moodle output format support
+[Distribué sous licence GPLv2 Licence (comme Moodle) ](https://docs.moodle.org/3x/fr/Licence)
